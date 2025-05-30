@@ -5,6 +5,6 @@ This is a Node.js server built with Express and MongoDB that sends automated wea
 <strong style="font-weight:bold; display:block; width:100%;">https://zeo-weather-email.netlify.app/</strong>
 
 <div style=" display:flex; justify-content: center; margin: 0 auto">
-<img src="/public/mern.png" alt="Description" width="120px" >
+<img src="/public/mern.png" alt="Description" width="180px" >
 <img src="/public/tailwind.png" alt="Description" width="130px" >
 </div>
